@@ -1,0 +1,23 @@
+public class comentarios{
+
+public static void main(String [] args){
+
+    
+public int somaMultiplica (int n, int x, String m){
+/*
+ * Este método foi elaborado as pressas
+ * por isso eu abrevei o nome das variáveis
+ * mas olha, ele tem a finalidade de somar ou  multiplicar
+ * dois números
+ */
+    int resutaldo = 0;
+    if (m == "Multiplicacao"){ 
+        resultado = n * x;
+    }else{
+        // se não soma mesmo
+        resultado = n + x
+    }
+    return resultado;
+}
+}
+}
